@@ -1,0 +1,453 @@
+[
+    {
+      "id": 1,
+      "name": "Chain Set",
+      "subname":"Splendor Plus",
+      "price": 390,
+      "rating": "4.0",
+      "compatibility": ["Splendor Plus", "Hero HF Deluxe", "Bajaj Pulsar"],
+      "image":"./Images/parts_1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Brake Pad",
+      "subname":"HF Deluxe",
+      "price": 120,
+      "rating": "4.5",
+      "compatibility": ["HF Deluxe", "Bajaj Pulsar", "Splendor Plus"],
+      "image": "./Images/parts_2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Air Filter",
+      "subname":"Pulsar",
+      "price": 150,
+      "rating": "4.3",
+      "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+      "image": "./Images/parts_6.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Clutch Plate",
+      "subname":"Activa",
+      "price": 450,
+      "rating": "4.2",
+      "compatibility": ["Honda Activa", "Splendor Plus", "Bajaj Pulsar"],
+      "image": "./Images/parts_1.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Engine Oil Filter",
+      "subname":"Enfield",
+      "price": 200,
+      "rating": "4.1",
+      "compatibility": ["Royal Enfield", "Hero HF Deluxe", "Bajaj Pulsar"],
+      "image": "./Images/parts_2.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Spark Plug",
+      "subname":"Honda Activa",
+      "price": 85,
+      "rating": "4.4",
+      "compatibility": ["Honda Activa", "Splendor Plus", "Bajaj Pulsar"],
+      "image": "./Images/parts_6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Fuel Filter",
+      "subname":"Pulsar",
+      "price": 180,
+      "rating": "4.3",
+      "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+      "image":"./Images/parts_1.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Air Filter",
+      "subname":"HF Deluxe",
+      "price": 130,
+      "rating": "4.2",
+      "compatibility": ["Hero HF Deluxe", "Bajaj Pulsar", "Splendor Plus"],
+      "image": "./Images/parts_2.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Brake Fluid",
+      "subname":"Splendor Plus",
+      "price": 90,
+      "rating": "4.5",
+      "compatibility": ["Splendor Plus", "Bajaj Pulsar", "Hero HF Deluxe"],
+      "image": "./Images/parts_6.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Headlight Assembly",
+      "subname":"Bajaj Pulsar",
+      "price": 350,
+      "rating": "4.6",
+      "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+      "image":"./Images/parts_1.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Clutch Cable",
+      "subname":"Splendor Plus",
+      "price": 70,
+      "rating": "4.3",
+      "compatibility": ["Splendor Plus", "Hero HF Deluxe", "Bajaj Pulsar"],
+      "image": "./Images/parts_2.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Brake Shoes",
+      "subname":"HF Deluxe",
+      "price": 110,
+      "rating": "4.4",
+      "compatibility": ["HF Deluxe", "Bajaj Pulsar", "Splendor Plus"],
+      "image": "./Images/parts_6.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Engine Oil",
+      "subname":"Bajaj Pulsar",
+      "price": 220,
+      "rating": "4.0",
+      "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+      "image":"./Images/parts_1.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Suspension Spring",
+      "subname":"Hero HF Deluxe",
+      "price": 350,
+      "rating": "4.1",
+      "compatibility": ["Hero HF Deluxe", "Bajaj Pulsar", "Splendor Plus"],
+      "image": "./Images/parts_2.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Oil Filter",
+      "subname":"Activa",
+      "price": 160,
+      "rating": "4.0",
+      "compatibility": ["Honda Activa", "Splendor Plus", "Bajaj Pulsar"],
+      "image": "./Images/parts_6.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Gear Lever",
+      "subname":"Bajaj Pulsar",
+      "price": 110,
+      "rating": "4.4",
+      "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+      "image":"./Images/parts_1.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Chain Lube",
+      "subname":"HF Deluxe",
+      "price": 100,
+      "rating": "4.3",
+      "compatibility": ["HF Deluxe", "Bajaj Pulsar", "Splendor Plus"],
+      "image": "./Images/parts_2.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Throttle Cable",
+      "subname":"Pulsar",
+      "price": 130,
+      "rating": "4.2",
+      "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+      "image": "./Images/parts_6.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Air Filter",
+      "subname":"Activa",
+      "price": 120,
+      "rating": "4.1",
+      "compatibility": ["Honda Activa", "Splendor Plus", "Bajaj Pulsar"],
+      "image":"./Images/parts_1.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "Front Fork",
+      "subname":"Bajaj Pulsar",
+      "price": 540,
+      "rating": "4.5",
+      "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+      "image": "./Images/parts_2.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Brake Pad",
+      "subname":"Activa",
+      "price": 140,
+      "rating": "4.3",
+      "compatibility": ["Honda Activa", "Splendor Plus", "Bajaj Pulsar"],
+      "image": "./Images/parts_6.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Battery",
+      "subname":"Splendor Plus",
+      "price": 850,
+      "rating": "4.6",
+      "compatibility": ["Splendor Plus", "Hero HF Deluxe", "Bajaj Pulsar"],
+      "image":"./Images/parts_1.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "Clutch Plate",
+      "subname":"Bajaj Pulsar",
+      "price": 400,
+      "rating": "4.2",
+      "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+      "image": "./Images/parts_2.jpeg"
+    },
+    {
+      "id": 24,
+      "name": "Chassis",
+      "subname":"Splendor Plus",
+      "price": 1000,
+      "rating": "4.3",
+      "compatibility": ["Splendor Plus", "Hero HF Deluxe", "Bajaj Pulsar"],
+      "image": "./Images/parts_6.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Indicator",
+      "subname":"Bajaj Pulsar",
+      "price": 70,
+      "rating": "4.1",
+      "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+      "image":"./Images/parts_1.jpeg"
+    },
+    {
+        "id": 26,
+        "name": "Chain Set",
+        "subname":"Splendor Plus",
+        "price": 390,
+        "rating": "4.0",
+        "compatibility": ["Splendor Plus", "Hero HF Deluxe", "Bajaj Pulsar"],
+      "image": "./Images/parts_2.jpeg"
+      },
+      {
+        "id": 27,
+        "name": "Brake Pad",
+        "subname":"HF Deluxe",
+        "price": 120,
+        "rating": "4.5",
+        "compatibility": ["HF Deluxe", "Bajaj Pulsar", "Splendor Plus"],
+        "image": "./Images/parts_6.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Air Filter",
+        "subname":"Pulsar",
+        "price": 150,
+        "rating": "4.3",
+        "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+        "image":"./Images/parts_1.jpeg"
+      },
+      {
+        "id": 29,
+        "name": "Clutch Plate",
+        "subname":"Activa",
+        "price": 450,
+        "rating": "4.2",
+        "compatibility": ["Honda Activa", "Splendor Plus", "Bajaj Pulsar"],
+        "image": "./Images/parts_2.jpeg"
+      },
+      {
+        "id": 30,
+        "name": "Engine Oil Filter",
+        "subname":"Enfield",
+        "price": 200,
+        "rating": "4.1",
+        "compatibility": ["Royal Enfield", "Hero HF Deluxe", "Bajaj Pulsar"],
+        "image": "./Images/parts_6.jpg"
+      },
+      {
+        "id": 31,
+        "name": "Spark Plug",
+        "subname":"Honda Activa",
+        "price": 85,
+        "rating": "4.4",
+        "compatibility": ["Honda Activa", "Splendor Plus", "Bajaj Pulsar"],
+        "image":"./Images/parts_1.jpeg"
+      },
+      {
+        "id": 32,
+        "name": "Fuel Filter",
+        "subname":"Pulsar",
+        "price": 180,
+        "rating": "4.3",
+        "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+        "image": "./Images/parts_2.jpeg"
+      },
+      {
+        "id": 33,
+        "name": "Air Filter",
+        "subname":"HF Deluxe",
+        "price": 130,
+        "rating": "4.2",
+        "compatibility": ["Hero HF Deluxe", "Bajaj Pulsar", "Splendor Plus"],
+        "image": "./Images/parts_6.jpg"
+      },
+      {
+        "id": 34,
+        "name": "Brake Fluid",
+        "subname":"Splendor Plus",
+        "price": 90,
+        "rating": "4.5",
+        "compatibility": ["Splendor Plus", "Bajaj Pulsar", "Hero HF Deluxe"],
+        "image":"./Images/parts_1.jpeg"
+      },
+      {
+        "id": 35,
+        "name": "Headlight Assembly",
+        "subname":"Bajaj Pulsar",
+        "price": 350,
+        "rating": "4.6",
+        "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+        "image": "./Images/parts_2.jpeg"
+      },
+      {
+        "id": 36,
+        "name": "Clutch Cable",
+        "subname":"Splendor Plus",
+        "price": 70,
+        "rating": "4.3",
+        "compatibility": ["Splendor Plus", "Hero HF Deluxe", "Bajaj Pulsar"],
+        "image": "./Images/parts_6.jpg"
+      },
+      {
+        "id": 37,
+        "name": "Brake Shoes",
+        "subname":"HF Deluxe",
+        "price": 110,
+        "rating": "4.4",
+        "compatibility": ["HF Deluxe", "Bajaj Pulsar", "Splendor Plus"],
+        "image":"./Images/parts_1.jpeg"
+      },
+      {
+        "id": 38,
+        "name": "Engine Oil",
+        "subname":"Bajaj Pulsar",
+        "price": 220,
+        "rating": "4.0",
+        "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+        "image": "./Images/parts_2.jpeg"
+      },
+      {
+        "id": 39,
+        "name": "Suspension Spring",
+        "subname":"Hero HF Deluxe",
+        "price": 350,
+        "rating": "4.1",
+        "compatibility": ["Hero HF Deluxe", "Bajaj Pulsar", "Splendor Plus"],
+        "image": "./Images/parts_6.jpg"
+      },
+      {
+        "id": 40,
+        "name": "Oil Filter",
+        "subname":"Activa",
+        "price": 160,
+        "rating": "4.0",
+        "compatibility": ["Honda Activa", "Splendor Plus", "Bajaj Pulsar"],
+        "image":"./Images/parts_1.jpeg"
+      },
+      {
+        "id": 41,
+        "name": "Gear Lever",
+        "subname":"Bajaj Pulsar",
+        "price": 110,
+        "rating": "4.4",
+        "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+        "image": "./Images/parts_2.jpeg"
+      },
+      {
+        "id": 42,
+        "name": "Chain Lube",
+        "subname":"HF Deluxe",
+        "price": 100,
+        "rating": "4.3",
+        "compatibility": ["HF Deluxe", "Bajaj Pulsar", "Splendor Plus"],
+        "image": "./Images/parts_6.jpg"
+      },
+      {
+        "id": 43,
+        "name": "Throttle Cable",
+        "subname":"Pulsar",
+        "price": 130,
+        "rating": "4.2",
+        "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+        "image":"./Images/parts_1.jpeg"
+      },
+      {
+        "id": 44,
+        "name": "Air Filter",
+        "subname":"Activa",
+        "price": 120,
+        "rating": "4.1",
+        "compatibility": ["Honda Activa", "Splendor Plus", "Bajaj Pulsar"],
+        "image": "./Images/parts_2.jpeg"
+      },
+      {
+        "id": 45,
+        "name": "Front Fork",
+        "subname":"Bajaj Pulsar",
+        "price": 540,
+        "rating": "4.5",
+        "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+        "image": "./Images/parts_6.jpg"
+      },
+      {
+        "id": 46,
+        "name": "Brake Pad",
+        "subname":"Activa",
+        "price": 140,
+        "rating": "4.3",
+        "compatibility": ["Honda Activa", "Splendor Plus", "Bajaj Pulsar"],
+        "image":"./Images/parts_1.jpeg"
+      },
+      {
+        "id": 47,
+        "name": "Battery",
+        "subname":"Splendor Plus",
+        "price": 850,
+        "rating": "4.6",
+        "compatibility": ["Splendor Plus", "Hero HF Deluxe", "Bajaj Pulsar"],
+        "image": "./Images/parts_2.jpeg"
+      },
+      {
+        "id": 48,
+        "name": "Clutch Plate",
+        "subname":"Bajaj Pulsar",
+        "price": 400,
+        "rating": "4.2",
+        "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+        "image": "./Images/parts_6.jpg"
+      },
+      {
+        "id": 49,
+        "name": "Chassis",
+        "subname":"Splendor Plus",
+        "price": 1000,
+        "rating": "4.3",
+        "compatibility": ["Splendor Plus", "Hero HF Deluxe", "Bajaj Pulsar"],
+        "image":"./Images/parts_1.jpeg"
+      },
+      {
+        "id": 50,
+        "name": "Indicator",
+        "subname":"Bajaj Pulsar",
+        "price": 70,
+        "rating": "4.1",
+        "compatibility": ["Bajaj Pulsar", "Splendor Plus", "Hero HF Deluxe"],
+        "image": "./Images/parts_2.jpeg"
+      }
+  ]
+  
